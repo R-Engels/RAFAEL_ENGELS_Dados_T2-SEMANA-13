@@ -9,8 +9,10 @@ reports/*.log
 __pycache__/
 *.pyc
 .venv/
-.pytest_cache/
 .ipynb_checkpoints/
+
+# interno do assistente
+CODE_MAP.md
 
 # power bi
 .pbi/
